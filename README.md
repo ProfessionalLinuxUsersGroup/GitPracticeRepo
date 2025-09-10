@@ -226,8 +226,6 @@ git add changeme.md
 git commit -m "feat: Add <my_name> to changeme.md"
 ```
 
-!!! note "Commit Message Convention"
-
 > **Note**: There are differing opinions on how commit messages should be
 > structured. A really solid commit message convention is outlined here:
 > 
