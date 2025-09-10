@@ -170,11 +170,11 @@ The basic steps to contribute are outlined below.
 Go to the [original repository link](https://github.com/ProfessionalLinuxUsersGroup/GitPracticeRepo).
 Click on "Fork" on the top right.
 
-<img src="./img/fork_repo1.png"></img>
+<img width="488" height="129" alt="fork_repo1" src="https://github.com/user-attachments/assets/69e74f29-a09b-4bac-b3f1-2e71a57bc735" />
 
 Then click "Create Fork" on the next page.
 
-<img src="./img/fork_repo2.png"></img>
+<img width="793" height="558" alt="fork_repo2" src="https://github.com/user-attachments/assets/f25e0e15-eaf3-4625-80f9-abe53f895345" />
 
 Now you'll have your own version of the repository tied to your GitHub account.
 
