@@ -214,7 +214,7 @@ Once you're on your new branch, add your name to the `./changeme.md` file,
 using the editor of your choice.
 
 ```bash
-vi u1ws.md
+vi changeme.md
 # Make changes
 :wq
 ```
